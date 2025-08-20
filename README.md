@@ -24,7 +24,7 @@ eget mighf/mhfports
 ```
 Or you can install it with cargo:
 ```bash
-cargo install https://github.com/oakymacintosh/mhfports
+pip install -E https://github.com/oakymacintosh/mhfports
 ```
 
 ## Usage
