@@ -1,0 +1,65 @@
+```
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+env.bak/
+venv/
+venv.bak/
+*.egg-info/
+.dist-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pytest
+.cache
+tests/.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Sphinx documentation
+docs/_build/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environment
+.env
+.venv
+ENV/
+env/
+venv/
+
+# Pytest
+.cache
+
+# Others
+*~
+*.swp
+*.swo
+*.orig
+*.bak
+*.tmp
+
+dist/
+build/
+
